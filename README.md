@@ -32,5 +32,7 @@ A machine learning project developed for BRAC University (CSE422: Artificial Int
 - Matplotlib
 
 ## Author
-Shafe Al Toha
+
+**Shafe Al Toha**  
+Computer Science and Engineering (CSE)  
 BRAC University
